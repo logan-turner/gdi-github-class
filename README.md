@@ -7,4 +7,4 @@ This project contains test files for learning to use Git and Github during the G
 
 I am practicing making changes and pushing them to Github.
 
-Slides are available: tw.github.io/git-github/slides.html.
+Slides are available: ltw.github.io/git-github/slides.html.
