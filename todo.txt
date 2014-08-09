@@ -1,0 +1,4 @@
+[ ] create a to-do list
+[ ] open to-do list
+[ ] fill in list items
+[ ] save to-do list
